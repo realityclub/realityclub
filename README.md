@@ -1,3 +1,2 @@
 <div align="center">
-<img src="https://github.com/realityclub/track/raw/c696550ae08a27345a3b313a8902a8abcd59ad38/494907e8dd6847d2d041da6672881501.gif" width="100%">
-</div>
+<img width="245" height="250" alt="Image" src="https://github.com/user-attachments/assets/f783cece-c9b4-4b19-966b-f7384ecf06f3" />
